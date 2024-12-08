@@ -1,0 +1,497 @@
+{
+  // 使用 IntelliSense 了解相关属性。
+  // 悬停以查看现有属性的描述。
+  // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ticket",
+      "request": "launch",
+      "mainClass": "knock.ticket",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch simpleeventdemo",
+      "request": "launch",
+      "mainClass": "experiment8.simpleeventdemo",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch commoncontainer",
+      "request": "launch",
+      "mainClass": "study.commoncontainer",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch AnalysisResult",
+      "request": "launch",
+      "mainClass": "experiment7.AnalysisResult",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Multiplication",
+      "request": "launch",
+      "mainClass": "train.Multiplication",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch xuesheng",
+      "request": "launch",
+      "mainClass": "experiment6.xuesheng",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch chushu",
+      "request": "launch",
+      "mainClass": "experiment6.chushu",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch fenshujiance",
+      "request": "launch",
+      "mainClass": "experiment6.fenshujiance",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReadData",
+      "request": "launch",
+      "mainClass": "work10.ReadData",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Triangle",
+      "request": "launch",
+      "mainClass": "work10.Triangle",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestCompare",
+      "request": "launch",
+      "mainClass": "work9.TestCompare",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch chazhao",
+      "request": "launch",
+      "mainClass": "work9.chazhao",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch fenjieyinzi",
+      "request": "launch",
+      "mainClass": "exam.fenjieyinzi",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestStudent",
+      "request": "launch",
+      "mainClass": "exam.TestStudent",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch yinzi",
+      "request": "launch",
+      "mainClass": "exam.yinzi",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch P4T3",
+      "request": "launch",
+      "mainClass": "experiment5.P4T3",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch P4T2",
+      "request": "launch",
+      "mainClass": "experiment5.P4T2",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch window",
+      "request": "launch",
+      "mainClass": "study.window",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch bytearraystream",
+      "request": "launch",
+      "mainClass": "study.bytearraystream",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "work8.Test",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch transformnumber",
+      "request": "launch",
+      "mainClass": "work8.transformnumber",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch streamfilter",
+      "request": "launch",
+      "mainClass": "study.streamfilter",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch randomliu",
+      "request": "launch",
+      "mainClass": "study.randomliu",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch fenduan",
+      "request": "launch",
+      "mainClass": "experiment2.fenduan",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch jieCheng",
+      "request": "launch",
+      "mainClass": "experiment2.jieCheng",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch yangHui",
+      "request": "launch",
+      "mainClass": "experiment2.yangHui",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Complex",
+      "request": "launch",
+      "mainClass": "experiment3.Complex",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Table",
+      "request": "launch",
+      "mainClass": "experiment3.Table",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Triangle",
+      "request": "launch",
+      "mainClass": "experiment3.Triangle",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student",
+      "request": "launch",
+      "mainClass": "experiment4.Student",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Triangle(1)",
+      "request": "launch",
+      "mainClass": "experiment4.Triangle",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch CD",
+      "request": "launch",
+      "mainClass": "study.CD",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch DVD",
+      "request": "launch",
+      "mainClass": "study.DVD",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Database",
+      "request": "launch",
+      "mainClass": "study.Database",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Item",
+      "request": "launch",
+      "mainClass": "study.Item",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch date",
+      "request": "launch",
+      "mainClass": "study.date",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch exe",
+      "request": "launch",
+      "mainClass": "study.exe",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch file",
+      "request": "launch",
+      "mainClass": "study.file",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch huanchong",
+      "request": "launch",
+      "mainClass": "study.huanchong",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch scanner",
+      "request": "launch",
+      "mainClass": "study.scanner",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch write",
+      "request": "launch",
+      "mainClass": "study.write",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch markAndfloat",
+      "request": "launch",
+      "mainClass": "test.markAndfloat",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "mainClass": "test.test",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Russiaalgorithm",
+      "request": "launch",
+      "mainClass": "train.Russiaalgorithm",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch horsepool",
+      "request": "launch",
+      "mainClass": "train.horsepool",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch avgAndsum",
+      "request": "launch",
+      "mainClass": "work2.avgAndsum",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch changeDaxiaoxie",
+      "request": "launch",
+      "mainClass": "work2.changeDaxiaoxie",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch findMax",
+      "request": "launch",
+      "mainClass": "work2.findMax",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch reverseSushu",
+      "request": "launch",
+      "mainClass": "work2.reverseSushu",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch wanShu",
+      "request": "launch",
+      "mainClass": "work2.wanShu",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch ABCDE",
+      "request": "launch",
+      "mainClass": "work3.ABCDE",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch findMaxandmin",
+      "request": "launch",
+      "mainClass": "work3.findMaxandmin",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch findTimes",
+      "request": "launch",
+      "mainClass": "work3.findTimes",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch judgeSushu",
+      "request": "launch",
+      "mainClass": "work3.judgeSushu",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch changePosition",
+      "request": "launch",
+      "mainClass": "work4.changePosition",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch countNumber",
+      "request": "launch",
+      "mainClass": "work4.countNumber",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch deleteNumber",
+      "request": "launch",
+      "mainClass": "work4.deleteNumber",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch huiWenshu",
+      "request": "launch",
+      "mainClass": "work4.huiWenshu",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Circle",
+      "request": "launch",
+      "mainClass": "work5.Circle",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Employee",
+      "request": "launch",
+      "mainClass": "work5.Employee",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Human",
+      "request": "launch",
+      "mainClass": "work5.Human",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch MyPoint",
+      "request": "launch",
+      "mainClass": "work5.MyPoint",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch rectangle",
+      "request": "launch",
+      "mainClass": "work5.rectangle",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch AmericanPeople",
+      "request": "launch",
+      "mainClass": "work6.AmericanPeople",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch ChinaPeople",
+      "request": "launch",
+      "mainClass": "work6.ChinaPeople",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Man",
+      "request": "launch",
+      "mainClass": "work6.Man",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Woman",
+      "request": "launch",
+      "mainClass": "work6.Woman",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch P4T1",
+      "request": "launch",
+      "mainClass": "work7.P4T1",
+      "projectName": "newcode_2ef5e14"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestStartStop",
+      "request": "launch",
+      "mainClass": "work7.TestStartStop",
+      "projectName": "newcode_2ef5e14"
+    }
+  ]
+}
